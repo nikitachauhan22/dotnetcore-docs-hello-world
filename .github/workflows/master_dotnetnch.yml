@@ -54,4 +54,4 @@ jobs:
           app-name: 'DotnetNCH'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8B02B87B00B542ACA3957548C8E1E357 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A53B06D1C841404CAF2C0B90BB1EF64E }}
